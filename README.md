@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/api-v4.0-lightgrey) ![Nuget](https://img.shields.io/nuget/v/Aspose.slides-Cloud) ![Nuget](https://img.shields.io/nuget/dt/Aspose.slides-Cloud) [![GitHub license](https://img.shields.io/github/license/aspose-slides-cloud/aspose-slides-cloud-dotnet)](https://github.com/aspose-slides-cloud/aspose-slides-cloud-dotnet/blob/master/LICENSE)
+![](https://img.shields.io/badge/api-v3.0-lightgrey) ![Nuget](https://img.shields.io/nuget/v/Aspose.slides-Cloud) ![Nuget](https://img.shields.io/nuget/dt/Aspose.slides-Cloud) [![GitHub license](https://img.shields.io/github/license/aspose-slides-cloud/aspose-slides-cloud-dotnet)](https://github.com/aspose-slides-cloud/aspose-slides-cloud-dotnet/blob/master/LICENSE)
 # Aspose.slides Cloud SDK for .NET [![NuGet](https://img.shields.io/nuget/v/Aspose.slides-Cloud.svg)](https://www.nuget.org/packages/Aspose.slides-Cloud/)
 This repository contains Aspose.slides Cloud SDK for .NET source code. This SDK allows you to work with Aspose.slides Cloud REST APIs in your .NET applications.
 
